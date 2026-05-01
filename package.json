@@ -1,0 +1,14 @@
+{
+  "name": "telegram-ai-customer-service",
+  "version": "1.0.0",
+  "description": "AI Telegram bot for automated customer service using OpenAI",
+  "main": "bot/index.js",
+  "scripts": {
+    "start": "node bot/index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
