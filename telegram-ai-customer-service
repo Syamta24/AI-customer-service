@@ -1,0 +1,6 @@
+telegram-ai-customer-service/
+├── bot/
+│   └── index.js
+├── .env.example
+├── package.json
+├── README.md
